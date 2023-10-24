@@ -1,3 +1,5 @@
+const apiKey = "at_bsMjDYg9zehhUVqoMMQiovN0McSwt";
+
 
 let responseObject = {};
 var map = L.map(document.querySelector(".map")).setView([51.505, -0.09], 13);
